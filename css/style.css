@@ -1,0 +1,151 @@
+/*header start*/
+header{
+	min-height: 100px;
+    background-color: #DEDEDC;
+    overflow: hidden;
+    display: block;
+}
+.logo {
+	width: 5%;
+    background-color: #BDBEC0;
+    height: 65px;
+    margin-left: 20px;
+    margin-top: 18px;
+    border-radius: 200px;
+    float: left;
+}
+
+.menu {
+
+}
+.menu ul {
+	float: right;
+    width: 30%;
+
+}
+.menu ul li {
+    list-style: none;
+    float: right;
+    padding-right: 5%;
+    padding-top: 20px;
+}
+.menu ul li a {
+	text-decoration: none;
+    background-color: #BDBEC0;
+    padding: 14px 50px;
+    float: right;
+    padding-top: 10px;
+    border-radius: 3px;
+    
+}
+/*header end*/
+/*banner start*/
+.banner {
+	overflow: hidden;
+}
+
+.banner_left {
+	width: 45%;
+    height: 400px;
+    background-color: #DEDEDC;
+    margin-top: 10px;
+    float: left;
+}
+
+.banner_right {
+	width: 45%;
+    height: 50px;
+    background-color: #BDBEC0;
+    float: left;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+.banner_right1 {
+	width: 53%;
+    height: 15px;
+    background-color: #DEDEDC;
+    float: left;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.banner_right1:last-child {
+    width: 40%;
+}
+/*banner end*/
+.service {
+	overflow: hidden;
+}
+
+.single {
+	width: 31.8%;
+    float: left;
+    margin-right: 1.5%;
+    margin-bottom: 30px;
+}
+
+.top {
+	height: 300px;
+    background-color: #DEDEDC;
+    margin-top: 10px;
+}
+
+.bottom {
+	height: 50px;
+    width: 60%;
+    background-color: #BDBEC0;
+    margin-top: 14px;
+    border-radius: 4px;
+}
+
+.bottom1 {
+	height: 15px;
+    background-color: #DEDEDC;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+/*service end*/
+/*footer start*/
+.footer {
+	height: 250px;
+    background-color: #DEDEDC;
+    overflow: hidden;
+}
+
+.footer_main {
+	width: 24%;
+    float: left;
+    overflow: hidden;
+}
+
+.footer_1 {
+	height: 30px;
+    width: 60%;
+    background-color: #BDBEC0;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.footer_2 {
+	height: 10px;
+    width: 60%;
+    background-color: #D2D2D2;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-top: 10px;
+    float: left;
+}
+
+.footer_2_icon {
+	height: 40px;
+    width: 12%;
+    background-color: #BDBEC0;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-top: 10px;
+    float: left;
+}
+/*footer end*/
